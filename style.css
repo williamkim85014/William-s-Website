@@ -116,6 +116,78 @@ h1,h2,p,a {
 .cont:hover #mprepo {
     opacity: 0.3;
 }
+#newsweb {
+    width: 320px;
+    position: absolute;
+    right: 135px;
+    top: 850px;
+    background-color: rgb(52, 0, 110);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: x-large;
+    border-radius: 20px;
+    font-weight: bold;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    text-decoration: none;
+}
+.cont:hover #newsweb {
+    opacity: 0.3;
+}
+#newsrepo {
+    width: 320px;
+    position: absolute;
+    right: 135px;
+    top: 950px;
+    background-color: rgb(52, 0, 110);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: x-large;
+    border-radius: 20px;
+    font-weight: bold;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    text-decoration: none;
+}
+.cont:hover #newsrepo {
+    opacity: 0.3;
+}
+#chatweb {
+    width: 320px;
+    position: absolute;
+    right: 135px;
+    top: 1100px;
+    background-color: rgb(52, 0, 110);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: x-large;
+    border-radius: 20px;
+    font-weight: bold;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    text-decoration: none;
+}
+.cont:hover #chatweb {
+    opacity: 0.3;
+}
+#chatrepo {
+    width: 320px;
+    position: absolute;
+    right: 135px;
+    top: 1200px;
+    background-color: rgb(52, 0, 110);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: x-large;
+    border-radius: 20px;
+    font-weight: bold;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    text-decoration: none;
+}
+.cont:hover #chatrepo {
+    opacity: 0.3;
+}
 #youtube {
     width: 300px;
     position: absolute;
